@@ -1,0 +1,30 @@
+20210201 09:37:24.202312Z  8692 TRACE main pid = 8692 - Client.cc:119
+20210201 09:37:24.212258Z  8693 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:37:24.213157Z  8693 TRACE handleEventWithGuard 7: OUT  - Channel.cc:78
+20210201 09:37:24.213974Z  8693 TRACE onConnection 127.0.0.1:48872 -> 127.0.0.1:13140 is UP - Client.cc:72
+20210201 09:37:26.294390Z  8693 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:37:26.303786Z  8693 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:37:48.722379Z  9002 TRACE main pid = 9002 - Client.cc:119
+20210201 09:37:48.731989Z  9003 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:37:48.732818Z  9003 TRACE handleEventWithGuard 7: OUT HUP ERR  - Channel.cc:78
+20210201 09:37:49.233612Z  9003 TRACE handleEventWithGuard 5: IN  - Channel.cc:78
+20210201 09:37:49.234492Z  9003 TRACE handleEventWithGuard 7: OUT HUP ERR  - Channel.cc:78
+20210201 09:37:50.235220Z  9003 TRACE handleEventWithGuard 5: IN  - Channel.cc:78
+20210201 09:37:50.244560Z  9003 TRACE handleEventWithGuard 7: OUT HUP ERR  - Channel.cc:78
+20210201 09:37:52.245300Z  9003 TRACE handleEventWithGuard 5: IN  - Channel.cc:78
+20210201 09:37:52.254647Z  9003 TRACE handleEventWithGuard 7: OUT HUP ERR  - Channel.cc:78
+20210201 09:37:56.255377Z  9003 TRACE handleEventWithGuard 5: IN  - Channel.cc:78
+20210201 09:37:56.264836Z  9003 TRACE handleEventWithGuard 7: OUT  - Channel.cc:78
+20210201 09:37:56.265588Z  9003 TRACE onConnection 127.0.0.1:48944 -> 127.0.0.1:13140 is UP - Client.cc:72
+20210201 09:38:01.006578Z  9003 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:01.053209Z  9003 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:03.271010Z  9003 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:03.280431Z  9003 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:28.424058Z  9003 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:31.570569Z  9003 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:31.617143Z  9003 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:33.477693Z  9003 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:33.478803Z  9003 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:39.485652Z  9003 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:43.715311Z  9003 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:43.716434Z  9003 TRACE handleEventWithGuard 7: IN  - Channel.cc:78

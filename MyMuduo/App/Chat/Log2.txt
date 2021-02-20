@@ -1,0 +1,11 @@
+20210201 09:38:26.495033Z  9476 TRACE main pid = 9476 - Client.cc:119
+20210201 09:38:26.496423Z  9478 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:26.497288Z  9478 TRACE handleEventWithGuard 7: OUT  - Channel.cc:78
+20210201 09:38:26.498069Z  9478 TRACE onConnection 127.0.0.1:49004 -> 127.0.0.1:13140 is UP - Client.cc:72
+20210201 09:38:28.423039Z  9478 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:28.424075Z  9478 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:31.617173Z  9478 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:33.478829Z  9478 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:39.484723Z  9478 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210201 09:38:39.485659Z  9478 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210201 09:38:43.716459Z  9478 TRACE handleEventWithGuard 7: IN  - Channel.cc:78

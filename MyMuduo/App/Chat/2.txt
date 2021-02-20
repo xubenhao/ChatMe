@@ -1,0 +1,15 @@
+20210203 10:28:03.643399Z 13857 TRACE main pid = 13857 - Client.cc:119
+20210203 10:28:03.644628Z 13857 ERROR sockets::fromIpPort - SocketOps.cc:232
+20210203 10:28:03.645698Z 13858 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210203 10:28:03.646480Z 13858 TRACE handleEventWithGuard 7: OUT  - Channel.cc:78
+20210203 10:28:03.647150Z 13858 TRACE onConnection 127.0.0.1:36454 -> 127.0.0.1:13140 is UP - Client.cc:72
+20210203 10:28:05.289925Z 13858 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210203 10:28:05.299564Z 13858 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210203 10:28:17.033425Z 13858 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210203 10:28:17.034331Z 13858 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210203 10:28:18.464458Z 13858 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210203 10:28:18.474116Z 13858 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210203 10:28:20.202024Z 13858 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210203 10:28:20.211821Z 13858 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
+20210203 10:28:21.888725Z 13858 TRACE handleEventWithGuard 6: IN  - Channel.cc:78
+20210203 10:28:21.898308Z 13858 TRACE handleEventWithGuard 7: IN  - Channel.cc:78
